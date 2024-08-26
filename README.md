@@ -1,5 +1,7 @@
 # 🌦️ Weather Changer App
 
+CREDIT AND IDEA : @Karan60 
+
 Welcome to the **Weather Changer App**! 🌤️ This project is a dynamic and interactive web application built using HTML, CSS, and JavaScript that allows you to simulate different weather conditions. This project also leverages the assistance of ChatGPT and Gemini for various aspects of development. 🚀
 
 ## Features 🌟
